@@ -14,38 +14,43 @@ A simple web page created using HTML, CSS and JavaScript.
   </tr>
   
   <tr>
-    <td> <center>+</center> </td>
+    <td> + </td>
     <td>Addition</td>
   </tr>
   
   <tr>
-    <td></td>
-    <td></td>
+    <td>-</td>
+    <td>Subtraction</td>
   </tr>
   
   <tr>
-    <td></td>
-    <td></td>
+    <td>*</td>
+    <td>Multiplication</td>
   </tr>
   
   <tr>
-    <td></td>
-    <td></td>
+    <td>**</td>
+    <td>Exponentiation</td>
   </tr>
 
   <tr>
-    <td></td>
-    <td></td>
+    <td>/</td>
+    <td>Division</td>
   </tr>
   
   <tr>
-    <td></td>
-    <td></td>
+    <td>%</td>
+    <td>Modulus (Remainder)</td>
   </tr>
   
   <tr>
-    <td></td>
-    <td></td>
+    <td>++</td>
+    <td>Increment</td>
+  </tr>
+  
+  <tr>
+    <td>--</td>
+    <td>Decrement</td>
   </tr>
 </table>
 
