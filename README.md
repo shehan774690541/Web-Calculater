@@ -63,4 +63,12 @@ A simple web page created using HTML, CSS and JavaScript.
   </tr>
 </table>
 
+<h3>Calculater In Desktop</h3>
+  <img src="git-img/ ">
+  
+<h3>Calculater In Tablet</h3>
+  <img src="git-img/ ">
+
+<h3>Calculater In Mobile</h3>
+  <img src="git-img/ ">
 
