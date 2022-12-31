@@ -11,16 +11,42 @@ A simple web page created using HTML, CSS and JavaScript.
   <th>
     <td>Operator</td>
     <td>Description</td>
-   </th>
+  </th>
+  
+  <tr>
+    <td>+</td>
+    <td>Addition</td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
 
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 
-<li> a = a </li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
