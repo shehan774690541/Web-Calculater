@@ -64,11 +64,11 @@ A simple web page created using HTML, CSS and JavaScript.
 </table>
 
 <h3>Calculater In Desktop</h3>
-  <img src="git-img/ ">
+  <img src="git-img/desktop.png">
   
-<h3>Calculater In Tablet</h3>
-  <img src="git-img/ ">
+<h3>Calculater In Tablet (Surface Pro 7)</h3>
+  <img src="git-img/mobile.png">
 
-<h3>Calculater In Mobile</h3>
-  <img src="git-img/ ">
+<h3>Calculater In Mobile (iPhone 12 Pro)</h3>
+  <img src="git-img/tablet.png">
 
