@@ -8,10 +8,10 @@ A simple web page created using HTML, CSS and JavaScript.
 
 <h2>This can be used to perform simple rituals.</h2>
 <table>
-  <th>
+  <tr>
     <td>Operator</td>
     <td>Description</td>
-  </th>
+  </tr>
   
   <tr>
     <td>+</td>
