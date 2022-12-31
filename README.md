@@ -14,7 +14,7 @@ A simple web page created using HTML, CSS and JavaScript.
   </tr>
   
   <tr>
-    <td>+</td>
+    <td> <center>+</center> </td>
     <td>Addition</td>
   </tr>
   
